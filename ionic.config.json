@@ -1,0 +1,7 @@
+{
+  "name": "animes4uAdmin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
